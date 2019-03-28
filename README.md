@@ -10,7 +10,7 @@
 |--|--|--|
 |Cover Page| need Team Name, Team Logo, member photos|Course name, semester/year, project title, project team members with photos; Must use names as they appear in eDimension; May use nicknames as well |
 |Mission statement| need `Capella` diagram|A solution-neutral statement of the problem area and goal; Must use Capella|
-|User characteristics| require data collection through survey|Affinity diagram based on at least 30 comments collected from interviews; Quality attributes; User persona; Use Capella to identify System Actors.|
+|User characteristics| need to define functional requirements and quality attributes|Affinity diagram based on at least 30 comments collected from interviews; Quality attributes; User persona; Use Capella to identify System Actors.|
 |As Is and To BE Situation Maps| need `Capella` diagram|Influence diagrams displaying a network of factors influencing the mission (the target success factor) and a path or pathways from the system intervention to the mission; Must use Capella |for these maps. 
 |Operational Concept| **pending review**|Single page artistic rendition of system in use, annotated with key features; This could be your favorite integrated concept sketch (from below).|
 |Design Alternatives| need `Capella` diagram|Classification tree of design alternatives (research required); the importance of this step is to understand the key architectural decisions being made; Must use Capella for this diagram. Optional: Present a Concept-Combination Table (Morph Box) used to generate integrated concepts. |
