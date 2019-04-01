@@ -1,29 +1,32 @@
 Non-functional requirements taken from the Hierarchical Group Headings in the Affinity Diagram
 
 1. Make the gameplay interesting
-Test:
-i.	Provide avenues for humour and surprise when playing the game.
-ii.	Despite the serious message the game is putting across, it should not be overbearing.
+Refined statements to make them testable:
+i.	The player should be challenged to interrogate the AI in creative ways. The AI will not simply repeat old messages.
+As recommended by Pluralsight's article "What Makes a Great Game? The Key Elements of Successful Games"
+
+ii.	The AI should ask interesting questions to the player.
+As recommended by Gamasura's article "The More You Know: Making Decisions Interesting in Games"
 
 2. Make the game visually appealing
-Test:
-i.	Utilise design best practices for applications.
-ii.	Organise the navigation in a clear and consistent manner.
-iii.	Reuse elements and patterns for consistent style.
+Refined statements to make them testable:
+i.	Have a neat interface
+ii.	Utilise empty states in the game to display key information
+iii.	Natural navigation scheme reusing common ways to interact with the operating system the game is played on
 iv.	Give immediate and clear feedback of successful user actions.
+As recommended by UPwork's article "A Mobile UX Design Checklist For Your Next App"
 
 3. Make the game easy to learn and play
-Test: 
+Refined statements to make them testable:
 i.	The time taken to read instructions should not exceed 5 minutes. 
 ii.	Actual game should not require the player to set up and work "out-of-the-box".
 
 4. Make the game physically and virtually acessible
-Test: 
-i.	The game must not require advanced hardware or specialised knowledge to run. 
-ii.	Devices able to run the game should be readily available or already commonly used by our target audience.
-iii.	Game should not require an upfront purchase to play.
+Refined statements to make them testable:
+i.	The game must not require advanced hardware or specialised knowledge to run. 90% of mobile devices should be able to run the game.
+ii.	Game should be free to play
 
 5. Make the game playable for a variety of people
-Test: 
-i.	Instructions must be easily understandable by not containing jargon or technical explanations. 
-ii.	Game should cater to wide audience by layering its technical depth so advanced users may explore it's features if wished.
+Refined statements to make them testable:
+i. Game should have multiple difficulty levels
+ii. Game should implement random matching but also allow players to choose who to play together with
