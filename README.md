@@ -8,7 +8,7 @@
 
 |Document|Description|Instruction from syllabus|
 |--|--|--|
-|Cover Page| need Team Name, Team Logo, member photos|Course name, semester/year, project title, project team members with photos; Must use names as they appear in eDimension; May use nicknames as well |
+|Cover Page|done|Course name, semester/year, project title, project team members with photos; Must use names as they appear in eDimension; May use nicknames as well |
 |Mission statement| need `Capella` diagram|A solution-neutral statement of the problem area and goal; Must use Capella|
 |User characteristics| done |Affinity diagram based on at least 30 comments collected from interviews; Quality attributes; User persona; Use Capella to identify System Actors.|
 |As Is and To BE Situation Maps| done|Influence diagrams displaying a network of factors influencing the mission (the target success factor) and a path or pathways from the system intervention to the mission; Must use Capella |for these maps. 
