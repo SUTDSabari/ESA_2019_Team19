@@ -1,4 +1,4 @@
-# ESA_2019_Team19
+﻿# ESA_2019_Team19
 
 **BOLD** for items that require attention
 
@@ -14,7 +14,7 @@
 |As Is and To BE Situation Maps| done|Influence diagrams displaying a network of factors influencing the mission (the target success factor) and a path or pathways from the system intervention to the mission; Must use Capella |for these maps. 
 |Operational Concept| done |Single page artistic rendition of system in use, annotated with key features; This could be your favorite integrated concept sketch (from below).|
 |Design Alternatives| done |Classification tree of design alternatives (research required); the importance of this step is to understand the key architectural decisions being made; Must use Capella for this diagram. Optional: Present a Concept-Combination Table (Morph Box) used to generate integrated concepts.|
-|Integrated Conceps| annotated concept sketches from Design Alternatives|This section is proof that you made some attempt to explore the design space. Propose at least five divergent (fundamentally distinct) integrated concepts which fulfill the operational concept; provide five concept sketches with annotated features. Every team member should contribute at least one sketch. |
+|Integrated Conceps| done |This section is proof that you made some attempt to explore the design space. Propose at least five divergent (fundamentally distinct) integrated concepts which fulfill the operational concept; provide five concept sketches with annotated features. Every team member should contribute at least one sketch. |
 |Scorecard|done|Functional requirements and quality attributes, with weights, that the user will use to score alternative solutions. These weights are inputs to the Concept Selection step. They should tie back to your User Characteristics analysis. |
 |Concept Selection|done except justification for concept scoring (optional)|A Pugh matrix documenting how the scorecard was used to down-select to a final concept; Optional: present a hybrid design concept that dominates previous concepts. Optional: create an interactive Pugh matrix using R-Shiny (final submission) |
 |Use Cases and Scenarios| need `Capella` diagram|At least one use case (scenario) per team member; Must use Capella; [Each scenario must be introduced in the Operational Analysis phase and carried through to the Logical Architecture phase (below).] The use cases must be sufficiently different to give rise to at least one new system functional requirement each. You must include at least one nominal use case and one off-nominal use case. Use Capella Capability Diagrams to represent the scenarios.|
