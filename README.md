@@ -5,6 +5,13 @@
 *italics* to show document dependencies that are bottlenecks for completion
 
 `codeblock` if you need a particular tool
+Editable google sheets
+[Chunked Design](https://docs.google.com/spreadsheets/d/12HHjIVWmxLvm6yoqIpvMp_pcZSTJnbda5SESSHuIrEA/edit#gid=34869144)
+[Design Structure Matrix](https://docs.google.com/spreadsheets/d/18Y3DqF3uevY35P_xvJgU_NmhfjASL0TgLiT21jg_7k0/edit)
+[Scorecard](https://docs.google.com/spreadsheets/d/18Es3CEX2dZcaOi253DO5youI1pxuzUHaz3RLqjBLPbk/edit?ouid=108086303364394280436&usp=sheets_home&ths=true)
+[Concept Selection](https://docs.google.com/spreadsheets/d/1nQbLr2O7ncUEzd9piEzts1UHxrCeQmAK8Ujal5AjBVc/edit#gid=1002868575)
+[Voice of the Customer](https://docs.google.com/spreadsheets/d/1J_rVwAjjfovR8iVnXdo0x-lYpI5Hrqiq5RpqCOsDJ2U/edit?ouid=108086303364394280436&usp=sheets_home&ths=true)
+[Release Schedule](https://docs.google.com/spreadsheets/d/1NZH6dPRPsqY4pAkFkPRWaOTm16UYyK4Zo6kgWf3MzV0/edit?ouid=108086303364394280436&usp=sheets_home&ths=true)
 
 |Document|Description|Instruction from syllabus|
 |--|--|--|
