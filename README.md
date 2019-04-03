@@ -1,6 +1,6 @@
 ﻿# ESA_2019_Team19
 
-**BOLD** for items that require attention
+**BOLD** for items that require attentions
 
 *italics* to show document dependencies that are bottlenecks for completion
 
